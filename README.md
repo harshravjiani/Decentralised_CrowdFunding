@@ -1,1 +1,1 @@
-# Crowdfunding Thirdweb Project - FrontEnd
+# Crowdfunding Thirdweb Project - Smartcontract
